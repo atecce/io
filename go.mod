@@ -1,1 +1,1 @@
-module github.com/atecce/io
+module atec.pub/io
